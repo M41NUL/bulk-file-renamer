@@ -30,11 +30,9 @@ A colorful, dark-themed desktop tool for renaming many files at once. Built with
 
 ## Screenshots
 
-*(Add your own screenshots here after running the app)*
-
-```
-[ screenshot-1.png ]   [ screenshot-2.png ]
-```
+<p align="center">
+  <img src="https://res.cloudinary.com/y6fdqyjn/image/upload/v1787593107/image-hosting-tool/ag3dvqbqa2d26fryf8ly.jpg" alt="Bulk File Renamer Screenshot" width="320">
+</p>
 
 ---
 
